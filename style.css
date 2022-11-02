@@ -1,0 +1,26 @@
+.banner {
+  background-image: url("images/mountain.jpg");
+  background-size: cover;
+  height: 400px;
+}
+
+.title {
+  text-align: left;
+  margin: auto;
+  padding-top: 200px;
+  padding-left: 400px;
+  color: aliceblue;
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  width: 500px;
+  margin: auto;
+  font-family: 'Roboto', sans-serif;
+  color: grey;
+}
+
+#super {
+  background-color: aquamarine;
+  font-style: italic;
+}
